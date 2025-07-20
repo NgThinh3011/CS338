@@ -20,7 +20,7 @@ Hệ thống sử dụng bộ dữ liệu **UIT-QA**, gồm:
 
 ## ⚙️ Kiến trúc hệ thống (Advanced RAG)
 
-![Hình ảnh kiến trúc hệ thống](path/to/architecture.png) <!-- Thay bằng link ảnh nếu có -->
+![Hình ảnh kiến trúc hệ thống](img/Advance_RAG.png) <!-- Thay bằng link ảnh nếu có -->
 
 So với kiến trúc RAG tiêu chuẩn, hệ thống tích hợp **các module** sau:
 
